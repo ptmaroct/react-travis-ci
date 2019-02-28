@@ -15,7 +15,8 @@ class App extends Component {
             React JS integration with Travis CI and Surge by &nbsp; 
             <a className="App-link"
             href="https://anujsh.com"
-            target="_blank">
+            target="_blank"
+            rel="noopener noreferrer">
               Anuj Sharma
             </a>
           </p>
@@ -23,7 +24,7 @@ class App extends Component {
             className="App-link"
             href="https://reactjs.org"
             target="_blank"
-          >
+            rel="noopener noreferrer">
             Learn React
           </a>
         </header>
